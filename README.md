@@ -50,7 +50,7 @@ Automação de processos de integração e entrega contínua (CI/CD) via GitHub 
 
 Este projeto é regido por uma **Constituição Sistêmica** detalhada no arquivo `.cursorrules`. Estas diretrizes são inegociáveis para qualquer agente de IA utilizado no desenvolvimento:
 
-* **Segurança de Dados (LGPD):** É mandatória a criptografia de dados sensíveis de moradores e usuários em repouso.
+* **Segurança de Dados (LGPD):** É mandatória a criptografia de dados sensíveis em trânsito e em repouso.
 * **Qualidade de Código:** Proibição estrita de padrões de código acoplado (*spaghetti code*). Prioriza-se a separação de responsabilidades (SoC) e Clean Architecture.
 * **TDD:** A IA deve obrigatoriamente garantir a cobertura de testes para cada regra de negócio implementada.
 

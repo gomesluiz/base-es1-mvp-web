@@ -12,3 +12,13 @@
 
 * **Onda 3 (Incremento 2):**
   * [Funcionalidade K]
+
+### Justificativas
+> Justifique a análise da tabela acima para cada onda, explicando a racionalidade por trás dos planejamentos das ondas.
+
+* **[Onda 1]:** 
+* **[Onda 2]:** 
+* **[Onda 3]:** 
+
+  ---
+  [⬅ Anterior](06_07_jornadas_dos_usuarios_funcionalidades_nas_jornadas.md) | [Próximo ➡](01_lean_inception/09_canvas_mvp.md)

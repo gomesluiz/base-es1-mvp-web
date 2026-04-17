@@ -1,6 +1,6 @@
 # 4. Brainstorm de Funcionalidades
 
-> [cite_start]Identifique as ações e/ou as interações de cada persona no produto[cite: 21]. [cite_start]Descreva as funcionalidades a partir das questões: o usuário está tentando fazer algo, então o produto deve ter uma funcionalidade para isso[cite: 22]. Qual é? Quais problemas da persona essa funcionalidade resolve? [cite_start]Quais benefícios ela traz para a persona? [cite: 23]
+> Identifique as ações e/ou as interações de cada persona no produto. Descreva as funcionalidades a partir das questões: o usuário está tentando fazer algo, então o produto deve ter uma funcionalidade para isso. Qual é? Quais problemas da persona essa funcionalidade resolve? Quais benefícios ela traz para a persona?
 
 | Funcionalidades | Personas |
 | :--- | :--- |
@@ -14,3 +14,5 @@
 | 8. | |
 | 9. | |
 | 10. | |
+---
+[⬅ Anterior](03_personas.md) | [Próximo ➡](05_revisao_tecnica_ux_negocios.md)
