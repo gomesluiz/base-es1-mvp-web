@@ -9,7 +9,7 @@
 ![Architecture](https://img.shields.io/badge/architecture-Clean_Architecture-orange)
 ![Methodology](https://img.shields.io/badge/methodology-Lean_Inception_%2F_PBB-blueviolet)
 
-Este repositório serve como alicerce para o desenvolvimento de soluções robustas, priorizando a compreensão do domínio de negócio antes da implementação técnica. Nesta versão, a stack de referência é **Python com Flask**, utilizando a Inteligência Artificial como uma ferramenta de **orquestração arquitetural**.
+Este repositório serve como alicerce para o desenvolvimento de soluções robustas, priorizando a compreensão do domínio de negócio antes da implementação técnica. Nesta versão, a stack de referência é **Python com Flask**, utilizando a Inteligência Artificial como uma ferramenta de **geração de código** e **orquestração arquitetural**.
 
 ---
 
